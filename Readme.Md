@@ -25,7 +25,8 @@ npm install
 bash
 Copy
 Edit
-node cli.js train <file-path>
+node cli.js train sample.txt
+
 node cli.js encode "<your text here>"
 node cli.js decode "[1, 2, 3]"
 1️⃣ Train
